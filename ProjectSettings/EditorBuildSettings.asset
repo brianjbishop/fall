@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 87ef307a1b73c5a40beae3c57a7e9988
+  - enabled: 1
+    path: Assets/Scenes/CountdownScene.unity
+    guid: 22da1521c535e4e0e814a85ceca46fe8
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-SpiralSlow.unity
+    guid: ffc6354fdffab45be9ac89acee55c2d3
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-AllHard.unity
+    guid: c9b51f06ec50f4f03a8b1f650c63e589
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-AllEasy.unity
+    guid: a301dc9318aa4425d997245b7217dc40
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-LeftRight.unity
+    guid: 2edd5500ff3284b1d8d36d0988f63db6
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-SpiralQuick.unity
+    guid: a3499e7a67019496e868eec3c72b2f24
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-OneSpiralQuick.unity
+    guid: b74b85874c2144562b2a459f3c36c144
+  - enabled: 1
+    path: Assets/Scenes/LevelScene-OneSpiralSlow.unity
+    guid: 6f523379bbea94f74bc6d02d7242dbb2
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: db9592162471448a2870fd9e7e91d744
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
