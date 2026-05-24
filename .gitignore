@@ -1,0 +1,59 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+ExportPackages/
+
+# Visual Studio / Rider
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.suo
+*.user
+*.unityproj
+*.sln
+*.csproj
+*.slnx
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Binary Unity assets — not committed (scripts only)
+Assets/**/*.unity
+Assets/**/*.prefab
+Assets/**/*.fbx
+Assets/**/*.FBX
+Assets/**/*.wav
+Assets/**/*.mp3
+Assets/**/*.ogg
+Assets/**/*.png
+Assets/**/*.jpg
+Assets/**/*.jpeg
+Assets/**/*.psd
+Assets/**/*.tga
+Assets/**/*.tif
+Assets/**/*.tiff
+Assets/**/*.anim
+Assets/**/*.controller
+Assets/**/*.asset
+Assets/**/*.mat
+Assets/**/*.physicMaterial
+Assets/**/*.physicsMaterial2D
+Assets/**/*.flare
+Assets/**/*.renderTexture
+Assets/**/*.cubemap
+Assets/**/*.spriteatlas
+Assets/**/*.terrainlayer
+Assets/**/*.shadergraph
+Assets/**/*.shadersubgraph
+Assets/**/*.mixer
+
+# Keep scripts and their meta files
+!Assets/Scripts/**/*.cs
+!Assets/Scripts/**/*.cs.meta
